@@ -6,7 +6,7 @@ class BinaryDistribution(Distribution):
         return True
 
 setup(
-    name='cv2',
+    name='opencv-python',
     version='4.3.0',
     packages=['cv2'],
     include_package_data=True,
