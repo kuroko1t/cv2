@@ -1,1 +1,1 @@
-import * from _native.cv2
+from _native.cv2 import *
